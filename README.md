@@ -1,5 +1,5 @@
 # CodingTemplateSite.-com
-This is an edited version of my final for one of my classes. I have taken a lot of things out due to security reasons and for the sake of a bit of privacy.
+This is an edited version of my final for one of my classes. I have taken a lot of things out due to security reasons and for the sake of a bit of privacy. Logo was created by me, so please do not steal it!
 
 Created with XAMPP MariaDB database for testing ease. The SQL files can be found within the project to create your own versions of my working database.
 
