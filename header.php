@@ -8,28 +8,28 @@
   	unset($_SESSION['username']);
   	header("location: index.php");
   }
-if($_SERVER['REQUEST_URI']=='/GTCCITClub.com/about.php'){
+if($_SERVER['REQUEST_URI']=='/CodingSiteTemplate.com/about.php'){
     $Title = "About Us";
 }
-    elseif($_SERVER['REQUEST_URI']=='/GTCCITClub.com/index.php') {
+    elseif($_SERVER['REQUEST_URI']=='/CodingSiteTemplate.com/index.php') {
         $Title = "IT: Coding Templates and More";
     }
-    elseif($_SERVER['REQUEST_URI']=='/GTCCITClub.com/login.php') {
+    elseif($_SERVER['REQUEST_URI']=='/CodingSiteTemplate.com/login.php') {
         $Title = "Login Page";
     }
-    elseif($_SERVER['REQUEST_URI']=='/GTCCITClub.com/index.php') {
+    elseif($_SERVER['REQUEST_URI']=='/CodingSiteTemplate.com/index.php') {
         $Title = "IT: Coding Templates and More";
     }
-    elseif($_SERVER['REQUEST_URI']=='/GTCCITClub.com/index.php') {
+    elseif($_SERVER['REQUEST_URI']=='/CodingSiteTemplate.com/index.php') {
         $Title = "IT: Coding Templates and More";
     }
-    elseif($_SERVER['REQUEST_URI']=='/GTCCITClub.com/my-account.php') {
+    elseif($_SERVER['REQUEST_URI']=='/CodingSiteTemplate.com/my-account.php') {
         $Title = "Account Page";
     }
-    elseif($_SERVER['REQUEST_URI']=='/GTCCITClub.com/contact-us.php') {
+    elseif($_SERVER['REQUEST_URI']=='/CodingSiteTemplate.com/contact-us.php') {
         $Title = "Contact Us";
     }
-    elseif($_SERVER['REQUEST_URI']=='/GTCCITClub.com/includes/contact-form.php') {
+    elseif($_SERVER['REQUEST_URI']=='/CodingSiteTemplate.com/includes/contact-form.php') {
         $Title = "Contact Form Submission";
     }
 ?>
@@ -80,7 +80,8 @@ if($_SERVER['REQUEST_URI']=='/GTCCITClub.com/about.php'){
                             <span class="fs-16 m-r-6">
                                 <i class="fa fa-home" aria-hidden="true"></i>
                             </span>
-                            <span><a class="color-11" href="https://www.google.com/maps/dir//Guilford+Technical+Community+College,+601+E+Main+St,+Jamestown,+NC+27282/@35.9992579,-79.9166621,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8853101d2f0e1bfb:0x8a7a949f1fac04ad!2m2!1d-79.9166621!2d35.9992579">1600 Pennsylvania Ave NW, Washington, DC 20500</a></span>
+                            <span class="size-w-4"><a class="color-11" href="https://www.google.com/maps/place/The+White+House/@38.8976805,-77.0387185,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7bcdecbb1df:0x715969d86d0b76bf!8m2!3d38.8976763!4d-77.0365298">1600 Pennsylvania Ave NW, Washington, DC 20500</a>
+                                </span>
                         </div>
 
                         <div class="tisubtxt-1 color-13 m-r-50">
